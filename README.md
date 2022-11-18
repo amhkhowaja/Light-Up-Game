@@ -1,5 +1,7 @@
 # Light-Up-Game
 
+If you want to play : you can play it here : http://webprogramming.inf.elte.hu/students/i1e7uo/Light-Up/
+
 ## Initial page:
 ![image](https://user-images.githubusercontent.com/63882136/201729125-af0609bc-0f0f-480c-a8f2-ddf0c89d1bf0.png)
 
